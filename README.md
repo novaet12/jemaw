@@ -4,7 +4,6 @@ jemaw is a  full-stack team collaboration platform designed to enhance team prod
 (done for full stack web project for software engineering course in fourth year computer engineering major).
 
 ## 🚀 Features
-
 - **Secure Authentication System**
   - JWT-based authentication
   - Role-based access control
